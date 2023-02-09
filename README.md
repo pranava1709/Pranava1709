@@ -1,14 +1,13 @@
 # Introduction
 - 👋 Hi, I’m Pranava
-- 👀 My main area of work is Supervised Machine Learning, Deep Learning and Computer Vision. I have worked on a number of projects, in the same.
-- 🌱Presently, I am working as a Research Intern at IIT, Delhi and NIFT, Delhi and I have also been developing a Counter-Drone System for the Indian Army.
+- 👀 My main area of work is Machine Learning and Computer Vision. I have worked on a number of projects, in the same. Also have been working in Orbital Mechanics.
+- 🌱Presently, I am working as a Machine Learning Research Intern at OHSL,in the field of Digital Twin and Physics based Neural Operators
 - 📫 How to connect with me : https://www.linkedin.com/in/pranava-seth-2407241a1/(LINKEDIN) https://www.instagram.com/_curl._.mooha_/(INSTAGRAM)
-- Resume and LORs: https://drive.google.com/drive/folders/1YzGeVCoLz1GjMEerdRRXGQBa_47qxSdc?usp=sharing 
 
 
 # Achievements 
 National Winner of MANTHAN(A national hackathon organized by Government of India)-2021 in Advanced Object Detection cateogory.
-
+National Finalist at SIH'22.
 
 
 
