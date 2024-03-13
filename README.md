@@ -1,13 +1,13 @@
 # Introduction
 - 👋 Hi, I’m Pranava
 - 👀 My main area of work is Machine Learning, Data Science and Computer Vision. I have worked on a number of projects, in the same. Also have been working in Orbital Mechanics.
-- Worked with organizations like IUCAA,ISRO, IIST, IIT, NIFTD and the Indian Army.
-- 🌱Also good with statistical an multi-domain analysis
+- Worked with organizations like IUCAA,ISRO, IIST, IITD, NIFTD and the Indian Army.
+- 🌱You can also find me on Medium: https://medium.com/@pranavaseth
 - 📫 How to connect with me : https://www.linkedin.com/in/pranava-seth-2407241a1/(LINKEDIN) https://www.instagram.com/_curl._.mooha_/(INSTAGRAM)
 
 
 # Achievements 
-National Winner of MANTHAN(A national hackathon organized by Government of India)-2021 in Advanced Object Detection cateogory.
+National Winner of MANTHAN(A national hackathon organized by the Government of India)-2021 in the Advanced Object Detection category.
 National Finalist at SIH'22.
 
 
